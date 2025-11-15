@@ -10,12 +10,11 @@
 ---
 
 ## 👥 The Team
-| Name | Role |
-| :--- | :--- |
-| **Rijurik Saha** | Lead Architect / Backend |
-| **Avadhanam Vinaya Rekha** | UI/UX Designer |
-| **Deep Prajapati** | Full Stack Developer |
-| **Zenish Borad** | Testing & QA Lead |
+
+**Rijurik Saha** 
+**Avadhanam Vinaya Rekha** 
+**Deep Prajapati** 
+**Zenish Borad**
 
 ---
 
