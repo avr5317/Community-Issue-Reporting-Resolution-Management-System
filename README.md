@@ -11,10 +11,10 @@
 
 ## 👥 The Team
 
-**Rijurik Saha** 
-**Avadhanam Vinaya Rekha** 
-**Deep Prajapati** 
-**Zenish Borad**
+- Rijurik Saha
+- Avadhanam Vinaya Rekha
+- Deep Prajapati
+- Zenish Borad
 
 ---
 
